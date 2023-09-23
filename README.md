@@ -20,7 +20,8 @@ To get started with the exercises, clone this repository to your local machine a
 ```bash
 git clone https://github.com/Amiche02/ARTIFICIAL-INTELLIGENCE.git
 cd ARTIFICIAL-INTELLIGENCE
-# Add installation commands or requirements.txt if applicable
+# Add installation commands or requirements.txt if applicable 
+```
 
 ## Usage
 
