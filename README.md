@@ -72,5 +72,5 @@ cd ARTIFICIAL-INTELLIGENCE
 
 ## Contact
 
-For questions or feedback, please contact **oastephaneamiche@gmail.com.** or my Linkdin **https://www.linkedin.com/in/amichestephanek/**
+For questions or feedback, please contact **oastephaneamiche@gmail.com.** or my Linkdin **https://www.linkedin.com/in/stephanekpoviessi/**
 
